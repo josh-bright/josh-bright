@@ -1,20 +1,14 @@
-# Hi, I'm [Your Name] 👋
+# Hi, I'm Josh
 
-[One or two sentences about who you are and what you work on.]
+Security engineer automating defence with code and AI.
 
-### What I'm into
-- [Interest or focus area]
-- [Interest or focus area]
-- [Interest or focus area]
+### Focus areas
+- **Vulnerability management:** tracking CVEs and CISA KEVs, and prioritising what actually affects the stack
+- **Threat intelligence:** following threat actors, active campaigns and the security news cycle
+- **Networking:** network infrastructure and automating its administration
+- **AI automation:** building agent-driven workflows that cut down repetitive security and ops work
 
-### Featured projects
-| Project | What it does |
-| --- | --- |
-| [Project name](https://github.com/USERNAME/REPO) | [Short description] |
-| [Project name](https://github.com/USERNAME/REPO) | [Short description] |
-
-### Tools I use
-[Add badges from https://shields.io, e.g. ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)]
-
-### Get in touch
-- [Website or contact link]
+### Tools
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat&logo=cisco&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
